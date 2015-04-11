@@ -1,0 +1,20 @@
+{
+    "name": "gazira-browser",
+    "version": "0.0.2",
+    "main": "index.js",
+    "description": "browser detector",
+    "keywords": [
+        "browser"
+    ],
+    "spm": {
+        "main": "index.js",
+        "dependencies": {
+        },
+        "devDependencies": {
+        },
+        "tests": "",
+        "ignore": [
+        ],
+        "buildArgs": ""
+    }
+}
